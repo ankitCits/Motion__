@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "925710904365",
+    "project_id": "themotionappindia",
+    "storage_bucket": "themotionappindia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925710904365:android:2ddc456fa77d9c37f51ca4",
+        "android_client_info": {
+          "package_name": "com.motionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925710904365-8ojr32nqsl82dpf090j5palhqaphb74c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motionapp",
+            "certificate_hash": "04636a8abc5d0891b11dea21496af1dc4f360bc9"
+          }
+        },
+        {
+          "client_id": "925710904365-nsqnpf2d4qi59ojpa3v96k4508gmlmkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motionapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "925710904365-3jqp6k04h8afene9jmoder7nmggg1phf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzW6VhCqHD2c2GjlbXeMAuRpdUpmPanDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925710904365-3jqp6k04h8afene9jmoder7nmggg1phf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

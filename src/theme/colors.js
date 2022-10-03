@@ -1,0 +1,21 @@
+const colors = {
+  CLR_PERSIAN_GREEN: '#66D4F1',
+  CLR_PURPLE_PIZ: '#E53CE5',
+  CLR_GRAY_TEXT: '#00000029',
+  CLR_PLACEHOLDER: '#9A9A9A',
+  CLR_WHITE: '#ffffff',
+  CLR_CAT_TEXT: '#ffffff80',
+  CLR_BLACK: '#000000',
+  CLR_INPUT_BG: '#2B2929',
+  CLR_CATEGORY_BG: '#2A2929',
+  CLR_INPUT_BORDER: '#515151',
+  CLR_BACKGROUND: '#171717',
+  CLR_TABBAR: '#2B2929',
+  BLUE: '#002AFF', 
+  SKY_BLUE:'#257FE6',
+  Light_GRAY:'#E0E0E0',
+  RED:'#db4453',
+  DARK_BLACK:"#000"
+};
+
+export { colors };

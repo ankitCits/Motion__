@@ -1,0 +1,722 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:react-native-async-storage_async-storage] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-google-signin_google-signin] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-google-fit] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-google-fit\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-linear-gradient] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-localize] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-pager-view] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-permissions] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-radial-gradient] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-radial-gradient\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-shake] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-shake\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-shared-group-preferences] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-shared-group-preferences\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-video] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-video\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\ankit\.gradle\caches\transforms-3\e39428d76fb6975dac7bfe85cda7739e\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\1fa81cf490316fb4d2d460b40a6a896a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:17:1-62:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\ankit\.gradle\caches\transforms-3\645c66a9115f2f5ecb6274b34380ef28\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\ankit\.gradle\caches\transforms-3\964a2ff9192b72cdbdaf0336c2cb4c29\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\ankit\.gradle\caches\transforms-3\38a72db2d6805ca03c830898c8da5149\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-reanimated\android\build\.transforms\8401e7bd66dd6e3ca93adcd356a773ad\transformed\jetified-react-native-reanimated-68-jsc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\dd3747b859e6c20cb48717815a410145\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\33f4ff62b243ad5ec347dbd9302ab661\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\71af79acd3363a2678231010563a471a\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ec4fcb5b0c90269ba520fda71a46342e\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\16847bffb1fedf5e73602aea3b7e7970\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\79992d22b99586c53a03bf04d7fcdd37\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\b34c63d8611e5990966183629eefe19e\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ccaeb34f143bd5488454b7572a499271\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\63b7530cafc331102fb9fc63097ebc1e\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\90d2f6e7b504b9bf1314be2ed15b8929\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\08e2f2fb675d9bdd79b1ee564daf81ab\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\14bf0165c921063b7243aa2df6041287\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\6fb60e77a1355ec14faaecb158e5002c\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\c9ad4ea6c0eefa4141eb7819f4d6c405\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\850885ad46fdda7f6ebfbe84906d2640\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\7a74c7bfeffa3a2f78a6659e7879a4d6\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ec8a57cd9fd9fb9257bcd82440f69d03\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\ankit\.gradle\caches\transforms-3\1a4bef5cbff41cac5097757d4088d120\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\84a63d56b59e9147c0032253ad34accf\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\4c29d42d66dbf298b86ee468ad20b598\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\8fa8c2083c5e37c83a99f467e5e87fa9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\ankit\.gradle\caches\transforms-3\b4020aaf838d48a893fe6dfac248cf73\transformed\exifinterface-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\b873b8da28dc98ae16f7056c5b8668fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ankit\.gradle\caches\transforms-3\24bfe1710964a659c09e18662baa78a6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\ed560936cbf15f9ac60092d0982eb931\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ankit\.gradle\caches\transforms-3\f824de120dddbac8009228a4324ffb03\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ankit\.gradle\caches\transforms-3\e44a85ed886528729490ad99dd86ccd6\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e94cb00071ce15c672f94a7b98523ad8\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\ankit\.gradle\caches\transforms-3\337a25d3109032b7c48f06f751779b55\transformed\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\0adf907f6e5cb6616fc99c204548ed99\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\85df7508e3bd054264c874cde4c7e2bd\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\f805aed31629d68003d8db174b89093a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\611f3ecccf479d695b35b8eec2cf10d3\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\48e468fc3ad31e869b6fd82a3aab4c11\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ankit\.gradle\caches\transforms-3\61f19898ab1d7c39c81ee6caceee57f9\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\4d5c5cde55c17e121d1859469e0b0e7f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\0d3db19852b5d87df8784927bb098a11\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\3e17dd31f5fd999384c28f371c8b7e40\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\fb104c04bf88f225ac7968f24fbb2264\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\c1741380117216abfc9da3dcd2b8c466\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ebb79792632d070048c54a2561d1f349\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ankit\.gradle\caches\transforms-3\9dd82f8b22206a97b83b7d30c5d8400d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e4630dae6e7a61342b52769381f1c594\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\4cf69b86c5878729970e6df992718832\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\e606102646e5dd8793b8a6be29be48c2\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\08ebaf29f8a7825b10920968291bd6f0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ankit\.gradle\caches\transforms-3\302d1125cc9e7ec931d0ca7ded1799dd\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ankit\.gradle\caches\transforms-3\a7a5acecb4a0061018c6c0b5c39e1c43\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ankit\.gradle\caches\transforms-3\cc78847903481c29472dc2b02b813a44\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\5700117baaa83a3f27a6d74ac4d779ab\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\cb0bc01fb53a3c0002d80872ce387f8f\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ankit\.gradle\caches\transforms-3\a18e53c18b9ca93acaa531e19d7d8c0b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\4c3a19d975ddeb9f3e27377cece4aeef\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ankit\.gradle\caches\transforms-3\46b4cccf61afd27fdb73d6c4fa924953\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\1f8c5c6ecd192bf7e664b6a3f5daaf12\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\02d23008a65d8fb664f96b2ae52414f5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\b0b1ac187425f813a542a49585e543da\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\ankit\.gradle\caches\transforms-3\f9a29d7433144e8e02bd7c9d1a606caa\transformed\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\b90ac45b495da092f9cda44ef40c76fe\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+	package
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:2:3-26
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:5:22-82
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:13:5-40:19
+MERGED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\ankit\.gradle\caches\transforms-3\e39428d76fb6975dac7bfe85cda7739e\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\ankit\.gradle\caches\transforms-3\e39428d76fb6975dac7bfe85cda7739e\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\14bf0165c921063b7243aa2df6041287\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\14bf0165c921063b7243aa2df6041287\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\ankit\.gradle\caches\transforms-3\1a4bef5cbff41cac5097757d4088d120\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\ankit\.gradle\caches\transforms-3\1a4bef5cbff41cac5097757d4088d120\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ankit\.gradle\caches\transforms-3\24bfe1710964a659c09e18662baa78a6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ankit\.gradle\caches\transforms-3\24bfe1710964a659c09e18662baa78a6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ankit\.gradle\caches\transforms-3\f824de120dddbac8009228a4324ffb03\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ankit\.gradle\caches\transforms-3\f824de120dddbac8009228a4324ffb03\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ankit\.gradle\caches\transforms-3\e44a85ed886528729490ad99dd86ccd6\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ankit\.gradle\caches\transforms-3\e44a85ed886528729490ad99dd86ccd6\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e94cb00071ce15c672f94a7b98523ad8\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e94cb00071ce15c672f94a7b98523ad8\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ebb79792632d070048c54a2561d1f349\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ebb79792632d070048c54a2561d1f349\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ankit\.gradle\caches\transforms-3\9dd82f8b22206a97b83b7d30c5d8400d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ankit\.gradle\caches\transforms-3\9dd82f8b22206a97b83b7d30c5d8400d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ebb79792632d070048c54a2561d1f349\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:15:7-39
+	android:roundIcon
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:17:7-52
+	android:icon
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:19:7-38
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:14:7-38
+activity#com.motionapp.MainActivity
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:20:7-39:18
+	android:screenOrientation
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:26:9-45
+	android:label
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:22:9-41
+	android:launchMode
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:24:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:25:9-51
+	android:exported
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:27:9-32
+	android:configChanges
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:23:9-118
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:21:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:30:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:stepsource+data:scheme:motion
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:33:10-38:25
+action#android.intent.action.VIEW
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:34:11-63
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:34:19-60
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:35:11-70
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:35:21-67
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:36:11-72
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:36:21-69
+data
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:37:11-69
+	android:host
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:37:41-66
+	android:scheme
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:37:17-40
+queries
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:41:5-43:15
+package#com.google.android.apps.fitness
+ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:42:9-67
+	android:name
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:42:18-64
+uses-sdk
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-async-storage_async-storage] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-community\checkbox\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-google-signin_google-signin] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-fit] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-google-fit\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-fit] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-google-fit\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-pager-view] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-pager-view\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-permissions\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-radial-gradient] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-radial-gradient\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-radial-gradient] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-radial-gradient\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-shake] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-shake\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-shake] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-shake\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-shared-group-preferences] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-shared-group-preferences\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-shared-group-preferences] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-shared-group-preferences\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-video\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-video\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\ankit\.gradle\caches\transforms-3\e39428d76fb6975dac7bfe85cda7739e\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] C:\Users\ankit\.gradle\caches\transforms-3\e39428d76fb6975dac7bfe85cda7739e\transformed\jetified-react-native-0.68.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\1fa81cf490316fb4d2d460b40a6a896a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\1fa81cf490316fb4d2d460b40a6a896a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\ankit\.gradle\caches\transforms-3\645c66a9115f2f5ecb6274b34380ef28\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\ankit\.gradle\caches\transforms-3\645c66a9115f2f5ecb6274b34380ef28\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\ankit\.gradle\caches\transforms-3\964a2ff9192b72cdbdaf0336c2cb4c29\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\ankit\.gradle\caches\transforms-3\964a2ff9192b72cdbdaf0336c2cb4c29\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\ankit\.gradle\caches\transforms-3\38a72db2d6805ca03c830898c8da5149\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\ankit\.gradle\caches\transforms-3\38a72db2d6805ca03c830898c8da5149\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-reanimated\android\build\.transforms\8401e7bd66dd6e3ca93adcd356a773ad\transformed\jetified-react-native-reanimated-68-jsc\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-reanimated\android\build\.transforms\8401e7bd66dd6e3ca93adcd356a773ad\transformed\jetified-react-native-reanimated-68-jsc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\dd3747b859e6c20cb48717815a410145\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\dd3747b859e6c20cb48717815a410145\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\33f4ff62b243ad5ec347dbd9302ab661\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\33f4ff62b243ad5ec347dbd9302ab661\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\71af79acd3363a2678231010563a471a\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\71af79acd3363a2678231010563a471a\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ec4fcb5b0c90269ba520fda71a46342e\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ec4fcb5b0c90269ba520fda71a46342e\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\16847bffb1fedf5e73602aea3b7e7970\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\16847bffb1fedf5e73602aea3b7e7970\transformed\jetified-memory-type-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\79992d22b99586c53a03bf04d7fcdd37\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\79992d22b99586c53a03bf04d7fcdd37\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\b34c63d8611e5990966183629eefe19e\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\b34c63d8611e5990966183629eefe19e\transformed\jetified-imagepipeline-native-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ccaeb34f143bd5488454b7572a499271\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ccaeb34f143bd5488454b7572a499271\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\63b7530cafc331102fb9fc63097ebc1e\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\63b7530cafc331102fb9fc63097ebc1e\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\90d2f6e7b504b9bf1314be2ed15b8929\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\90d2f6e7b504b9bf1314be2ed15b8929\transformed\jetified-nativeimagetranscoder-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\08e2f2fb675d9bdd79b1ee564daf81ab\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\08e2f2fb675d9bdd79b1ee564daf81ab\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\14bf0165c921063b7243aa2df6041287\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\14bf0165c921063b7243aa2df6041287\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\6fb60e77a1355ec14faaecb158e5002c\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\6fb60e77a1355ec14faaecb158e5002c\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\c9ad4ea6c0eefa4141eb7819f4d6c405\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\c9ad4ea6c0eefa4141eb7819f4d6c405\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\850885ad46fdda7f6ebfbe84906d2640\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\850885ad46fdda7f6ebfbe84906d2640\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\7a74c7bfeffa3a2f78a6659e7879a4d6\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\7a74c7bfeffa3a2f78a6659e7879a4d6\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ec8a57cd9fd9fb9257bcd82440f69d03\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ec8a57cd9fd9fb9257bcd82440f69d03\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\ankit\.gradle\caches\transforms-3\1a4bef5cbff41cac5097757d4088d120\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\ankit\.gradle\caches\transforms-3\1a4bef5cbff41cac5097757d4088d120\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\84a63d56b59e9147c0032253ad34accf\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\84a63d56b59e9147c0032253ad34accf\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\4c29d42d66dbf298b86ee468ad20b598\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\4c29d42d66dbf298b86ee468ad20b598\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\8fa8c2083c5e37c83a99f467e5e87fa9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\8fa8c2083c5e37c83a99f467e5e87fa9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\ankit\.gradle\caches\transforms-3\b4020aaf838d48a893fe6dfac248cf73\transformed\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\ankit\.gradle\caches\transforms-3\b4020aaf838d48a893fe6dfac248cf73\transformed\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\b873b8da28dc98ae16f7056c5b8668fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\b873b8da28dc98ae16f7056c5b8668fb\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ankit\.gradle\caches\transforms-3\24bfe1710964a659c09e18662baa78a6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\ankit\.gradle\caches\transforms-3\24bfe1710964a659c09e18662baa78a6\transformed\jetified-firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\ed560936cbf15f9ac60092d0982eb931\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\ed560936cbf15f9ac60092d0982eb931\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ankit\.gradle\caches\transforms-3\f824de120dddbac8009228a4324ffb03\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ankit\.gradle\caches\transforms-3\f824de120dddbac8009228a4324ffb03\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ankit\.gradle\caches\transforms-3\e44a85ed886528729490ad99dd86ccd6\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\ankit\.gradle\caches\transforms-3\e44a85ed886528729490ad99dd86ccd6\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e94cb00071ce15c672f94a7b98523ad8\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e94cb00071ce15c672f94a7b98523ad8\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\ankit\.gradle\caches\transforms-3\337a25d3109032b7c48f06f751779b55\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\ankit\.gradle\caches\transforms-3\337a25d3109032b7c48f06f751779b55\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\0adf907f6e5cb6616fc99c204548ed99\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\0adf907f6e5cb6616fc99c204548ed99\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\85df7508e3bd054264c874cde4c7e2bd\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\85df7508e3bd054264c874cde4c7e2bd\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\f805aed31629d68003d8db174b89093a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\f805aed31629d68003d8db174b89093a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\611f3ecccf479d695b35b8eec2cf10d3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\611f3ecccf479d695b35b8eec2cf10d3\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\48e468fc3ad31e869b6fd82a3aab4c11\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\48e468fc3ad31e869b6fd82a3aab4c11\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ankit\.gradle\caches\transforms-3\61f19898ab1d7c39c81ee6caceee57f9\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ankit\.gradle\caches\transforms-3\61f19898ab1d7c39c81ee6caceee57f9\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\4d5c5cde55c17e121d1859469e0b0e7f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\4d5c5cde55c17e121d1859469e0b0e7f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\0d3db19852b5d87df8784927bb098a11\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\0d3db19852b5d87df8784927bb098a11\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\3e17dd31f5fd999384c28f371c8b7e40\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\3e17dd31f5fd999384c28f371c8b7e40\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\fb104c04bf88f225ac7968f24fbb2264\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\ankit\.gradle\caches\transforms-3\fb104c04bf88f225ac7968f24fbb2264\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\c1741380117216abfc9da3dcd2b8c466\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\c1741380117216abfc9da3dcd2b8c466\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ebb79792632d070048c54a2561d1f349\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ebb79792632d070048c54a2561d1f349\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ankit\.gradle\caches\transforms-3\9dd82f8b22206a97b83b7d30c5d8400d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ankit\.gradle\caches\transforms-3\9dd82f8b22206a97b83b7d30c5d8400d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e4630dae6e7a61342b52769381f1c594\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\e4630dae6e7a61342b52769381f1c594\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\4cf69b86c5878729970e6df992718832\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\4cf69b86c5878729970e6df992718832\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\e606102646e5dd8793b8a6be29be48c2\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\e606102646e5dd8793b8a6be29be48c2\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\08ebaf29f8a7825b10920968291bd6f0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\08ebaf29f8a7825b10920968291bd6f0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ankit\.gradle\caches\transforms-3\302d1125cc9e7ec931d0ca7ded1799dd\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\ankit\.gradle\caches\transforms-3\302d1125cc9e7ec931d0ca7ded1799dd\transformed\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ankit\.gradle\caches\transforms-3\a7a5acecb4a0061018c6c0b5c39e1c43\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\ankit\.gradle\caches\transforms-3\a7a5acecb4a0061018c6c0b5c39e1c43\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ankit\.gradle\caches\transforms-3\cc78847903481c29472dc2b02b813a44\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\ankit\.gradle\caches\transforms-3\cc78847903481c29472dc2b02b813a44\transformed\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\5700117baaa83a3f27a6d74ac4d779ab\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\5700117baaa83a3f27a6d74ac4d779ab\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\cb0bc01fb53a3c0002d80872ce387f8f\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\cb0bc01fb53a3c0002d80872ce387f8f\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ankit\.gradle\caches\transforms-3\a18e53c18b9ca93acaa531e19d7d8c0b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ankit\.gradle\caches\transforms-3\a18e53c18b9ca93acaa531e19d7d8c0b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\4c3a19d975ddeb9f3e27377cece4aeef\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\ankit\.gradle\caches\transforms-3\4c3a19d975ddeb9f3e27377cece4aeef\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ankit\.gradle\caches\transforms-3\46b4cccf61afd27fdb73d6c4fa924953\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ankit\.gradle\caches\transforms-3\46b4cccf61afd27fdb73d6c4fa924953\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\1f8c5c6ecd192bf7e664b6a3f5daaf12\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\1f8c5c6ecd192bf7e664b6a3f5daaf12\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\02d23008a65d8fb664f96b2ae52414f5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\02d23008a65d8fb664f96b2ae52414f5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\b0b1ac187425f813a542a49585e543da\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ankit\.gradle\caches\transforms-3\b0b1ac187425f813a542a49585e543da\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\ankit\.gradle\caches\transforms-3\f9a29d7433144e8e02bd7c9d1a606caa\transformed\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\ankit\.gradle\caches\transforms-3\f9a29d7433144e8e02bd7c9d1a606caa\transformed\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\b90ac45b495da092f9cda44ef40c76fe\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\ankit\.gradle\caches\transforms-3\b90ac45b495da092f9cda44ef40c76fe\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-103
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-88
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-55
+meta-data#com.google.gms.fitness.sdk.version
+ADDED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:24:13-62
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:26:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:29:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\c325bedd7c5e1e05ee8f79d5a45b2f87\transformed\jetified-play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:29:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:32:9-39:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:33:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:48:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:46:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:56:13-58:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:58:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:57:17-119
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:33:13-132
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58

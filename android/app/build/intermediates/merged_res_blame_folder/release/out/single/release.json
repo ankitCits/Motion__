@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_profile.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_km.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_km.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_closewhite.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_closewhite.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_wallet.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_watch.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_notificationblack.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_notificationblack.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_fire.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_fire.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_wallet3.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_wallet3.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_reward.jpeg.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_reward.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\raw_src_assets_videos_splash.mp4.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_videos_splash.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_downarrow.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_downarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_clock.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_eyeoutline.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_eyeoutline.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_notification.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_headernotification.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_headernotification.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_videobg.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_videobg.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_edit.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_running.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_running.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_wallet1.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_wallet1.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_walletnew.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_walletnew.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_infopersian.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_infopersian.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_motionai.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_motionai.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_pairsuccess.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_pairsuccess.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_footsteps.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_footsteps.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_wallet2.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_wallet2.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_policy.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_policy.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_headphone.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_headphone.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_edit.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_hrs.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_hrs.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_runner.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_runner.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_closewhite.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_closewhite.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_settings.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_ckal.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_ckal.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_success.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_successarrow.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_successarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_ckal.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_ckal.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_runner.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_runner.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_login_bg.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_login_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_images_profile.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_images_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_setting.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_wallet.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_staroutline.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_staroutline.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_transaction.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_transaction.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_infogrey.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_infogrey.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_arrow.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_about.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_about.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_security.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_security.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_downarrowblack.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_downarrowblack.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_star.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_star.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_staroutline.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_staroutline.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_contact.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_downarrowblack.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_downarrowblack.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_notificationblack.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_notificationblack.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_infopersian.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_infopersian.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_pairsuccess.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_pairsuccess.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_headphone.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_headphone.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_images_wallet.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_images_wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_transaction.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_transaction.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_splash.jpg.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_downarrow.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_downarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_policy.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_policy.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_hrs.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_hrs.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_wallet3.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_wallet3.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\raw_src_assets_videos_quicktour.mp4.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\raw\\src_assets_videos_quicktour.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_bg.jpg.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profile.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_support.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_support.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_successarrow.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_successarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_profile.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_eye_open.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_eye_open.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_backarrow.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_backarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_user.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_toggle.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_toggle.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_wallet4.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_wallet4.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_person.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_person.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_headernotification.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_headernotification.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_user.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_success.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_contact.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_km.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_km.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_motionai.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_motionai.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_wallet.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_notification.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_watch.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_watch.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_logout.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_videobg.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_videobg.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_setting.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_eyeoutline.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_eyeoutline.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_wallet1.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_wallet1.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_backarrowsign.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_backarrowsign.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_settings.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_wallet4.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_wallet4.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_arrow.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_username_bg.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_username_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_toggle.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_toggle.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_person.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_person.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_infogrey.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_infogrey.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_eye_close.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_eye_close.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_terms.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_terms.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_security.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_security.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_logout.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_invite.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_invite.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_icon_wallet2.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_icon_wallet2.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_src_assets_icon_about.png.flat",
+        "source": "C:\\Users\\ankit\\Documents\\New Test\\Motion\\MotionApp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\src_assets_icon_about.png"
+    }
+]

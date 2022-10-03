@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/motionApp.iml" filepath="$PROJECT_DIR$/.idea/modules/motionApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/755450196/motionApp.@react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/755450196/motionApp.@react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1940032698/motionApp.@react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/1940032698/motionApp.@react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/motionApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/motionApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/755450196/motionApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/755450196/motionApp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1940032698/motionApp.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/1940032698/motionApp.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2039127958/motionApp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-2039127958/motionApp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1417099149/motionApp.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1417099149/motionApp.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1642903708/motionApp.react-native-google-fit.iml" filepath="$PROJECT_DIR$/.idea/modules/1642903708/motionApp.react-native-google-fit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1114808172/motionApp.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/1114808172/motionApp.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-495168353/motionApp.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-495168353/motionApp.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1622198233/motionApp.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1622198233/motionApp.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/432911336/motionApp.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/432911336/motionApp.react-native-localize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/470080142/motionApp.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/470080142/motionApp.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2085037061/motionApp.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/2085037061/motionApp.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1859059743/motionApp.react-native-radial-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1859059743/motionApp.react-native-radial-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/977144309/motionApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/977144309/motionApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1738167920/motionApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1738167920/motionApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2032796296/motionApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2032796296/motionApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1411828039/motionApp.react-native-shake.iml" filepath="$PROJECT_DIR$/.idea/modules/1411828039/motionApp.react-native-shake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/36233504/motionApp.react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/36233504/motionApp.react-native-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/167947297/motionApp.react-native-shared-group-preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/167947297/motionApp.react-native-shared-group-preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1716732187/motionApp.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1716732187/motionApp.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-150779460/motionApp.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-150779460/motionApp.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/23526490/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/23526490/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>

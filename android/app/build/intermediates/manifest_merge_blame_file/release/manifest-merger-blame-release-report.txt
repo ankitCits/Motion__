@@ -1,0 +1,378 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.motionapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.HIGH_SAMPLING_RATE_SENSORS" />
+12-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:5:5-84
+12-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:5:22-82
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:6:5-79
+13-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+14-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:7:5-78
+14-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:7:22-76
+15
+16    <queries>
+16-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:41:5-43:15
+17        <package android:name="com.google.android.apps.fitness" />
+17-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:42:9-67
+17-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:42:18-64
+18    </queries>
+19
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-68
+20-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-65
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-79
+21-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-76
+22    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+22-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:26:5-77
+22-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:26:22-74
+23    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION"/> -->
+23-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:29:5-82
+23-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:29:22-79
+24    <!-- <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" /> -->
+25    <!-- <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" /> -->
+26    <application
+26-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:13:5-40:19
+27        android:name="com.motionapp.MainApplication"
+27-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:14:7-38
+28        android:allowBackup="false"
+28-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:18:7-34
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.5.0] C:\Users\ankit\.gradle\caches\transforms-3\ebb79792632d070048c54a2561d1f349\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:16:7-41
+31        android:label="@string/app_name"
+31-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:15:7-39
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:17:7-52
+33        android:theme="@style/AppTheme" >
+33-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:19:7-38
+34        <activity
+34-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:20:7-39:18
+35            android:name="com.motionapp.MainActivity"
+35-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:21:9-37
+36            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+36-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:23:9-118
+37            android:exported="true"
+37-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:27:9-32
+38            android:label="@string/app_name"
+38-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:22:9-41
+39            android:launchMode="singleTask"
+39-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:24:9-40
+40            android:screenOrientation="portrait"
+40-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:26:9-45
+41            android:windowSoftInputMode="adjustResize" >
+41-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:25:9-51
+42            <intent-filter>
+42-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:28:9-31:25
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:29:13-65
+43-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:29:21-62
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:30:13-73
+45-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:30:23-70
+46            </intent-filter>
+47            <intent-filter>
+47-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:33:10-38:25
+48                <action android:name="android.intent.action.VIEW" />
+48-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:34:11-63
+48-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:34:19-60
+49
+50                <category android:name="android.intent.category.DEFAULT" />
+50-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:35:11-70
+50-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:35:21-67
+51                <category android:name="android.intent.category.BROWSABLE" />
+51-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:36:11-72
+51-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:36:21-69
+52
+53                <data
+53-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:37:11-69
+54                    android:host="stepsource"
+54-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:37:41-66
+55                    android:scheme="motion" />
+55-->C:\Users\ankit\Documents\New Test\Motion\MotionApp\android\app\src\main\AndroidManifest.xml:37:17-40
+56            </intent-filter>
+57        </activity>
+58
+59        <service
+59-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-16:40
+60            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService"
+60-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-103
+61            android:exported="false" />
+61-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-37
+62        <service
+62-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-23:19
+63            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+63-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-95
+64            android:exported="false" >
+64-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-37
+65            <intent-filter>
+65-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
+66                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+66-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
+66-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
+67            </intent-filter>
+68        </service>
+69
+70        <receiver
+70-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-32:20
+71            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+71-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-96
+72            android:exported="true"
+72-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
+73            android:permission="com.google.android.c2dm.permission.SEND" >
+73-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-73
+74            <intent-filter>
+74-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
+75                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+75-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
+75-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
+76            </intent-filter>
+77        </receiver>
+78
+79        <meta-data
+79-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-36:36
+80            android:name="firebase_messaging_auto_init_enabled"
+80-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-64
+81            android:value="true" />
+81-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-33
+82        <meta-data
+82-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:32
+83            android:name="com.google.firebase.messaging.default_notification_channel_id"
+83-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-89
+84            android:value="" />
+84-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-29
+85        <meta-data
+85-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:47
+86            android:name="com.google.firebase.messaging.default_notification_color"
+86-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-84
+87            android:resource="@color/white" />
+87-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-44
+88        <meta-data
+88-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:9-13:36
+89            android:name="app_data_collection_default_enabled"
+89-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-63
+90            android:value="true" />
+90-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-33
+91
+92        <service
+92-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:19
+93            android:name="com.google.firebase.components.ComponentDiscoveryService"
+93-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-84
+94            android:directBootAware="true"
+94-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-43
+95            android:exported="false" >
+95-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+96            <meta-data
+96-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:85
+97                android:name="com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar"
+97-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-120
+98                android:value="com.google.firebase.components.ComponentRegistrar" />
+98-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-82
+99            <meta-data
+99-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:56:13-58:85
+100                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+100-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:57:17-119
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:58:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:28:13-30:85
+103                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+103-->[com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:29:17-115
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-datatransport:18.1.5] C:\Users\ankit\.gradle\caches\transforms-3\d2aa7ac0a61b9c575d87cb23be9639ae\transformed\jetified-firebase-datatransport-18.1.5\AndroidManifest.xml:30:17-82
+105            <meta-data
+105-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+106                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+106-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\ankit\.gradle\caches\transforms-3\e06435f0bfb89f24caf1ef5517618932\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+108        </service>
+109
+110        <provider
+110-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-29:38
+111            android:name="io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider"
+111-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-88
+112            android:authorities="com.motionapp.reactnativefirebaseappinitprovider"
+112-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-86
+113            android:exported="false"
+113-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-37
+114            android:initOrder="99" />
+114-->[:react-native-firebase_app] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\app\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-35
+115        <provider
+115-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+116            android:name="com.imagepicker.ImagePickerProvider"
+116-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-63
+117            android:authorities="com.motionapp.imagepickerprovider"
+117-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-71
+118            android:exported="false"
+118-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+119            android:grantUriPermissions="true" >
+119-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+120            <meta-data
+120-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
+121                android:name="android.support.FILE_PROVIDER_PATHS"
+121-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+122                android:resource="@xml/imagepicker_provider_paths" />
+122-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
+123        </provider>
+124        <provider
+124-->[:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+125            android:name="cl.json.RNShareFileProvider"
+125-->[:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-55
+126            android:authorities="com.motionapp.rnshare.fileprovider"
+126-->[:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-72
+127            android:exported="false"
+127-->[:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+128            android:grantUriPermissions="true" >
+128-->[:react-native-share] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-share\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+129            <meta-data
+129-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-17:70
+130                android:name="android.support.FILE_PROVIDER_PATHS"
+130-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:17-67
+131                android:resource="@xml/share_download_paths" />
+131-->[:react-native-image-picker] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\react-native-image-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:17-67
+132        </provider>
+133
+134        <meta-data
+134-->[com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:23:9-25:38
+135            android:name="com.google.gms.fitness.sdk.version"
+135-->[com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:24:13-62
+136            android:value="21.1.0" />
+136-->[com.google.android.gms:play-services-fitness:21.1.0] C:\Users\ankit\.gradle\caches\transforms-3\b14355bcbb66d3fc886e5ba602e2bfcc\transformed\jetified-play-services-fitness-21.1.0\AndroidManifest.xml:25:13-35
+137
+138        <activity
+138-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:23:9-27:75
+139            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+139-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:24:13-93
+140            android:excludeFromRecents="true"
+140-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:25:13-46
+141            android:exported="false"
+141-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:26:13-37
+142            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+142-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:27:13-72
+143        <!--
+144            Service handling Google Sign-In user revocation. For apps that do not integrate with
+145            Google Sign-In, this service will never be started.
+146        -->
+147        <service
+147-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:33:9-37:51
+148            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+148-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:34:13-89
+149            android:exported="true"
+149-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:35:13-36
+150            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+150-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:36:13-107
+151            android:visibleToInstantApps="true" />
+151-->[com.google.android.gms:play-services-auth:20.3.0] C:\Users\ankit\.gradle\caches\transforms-3\0132ce7decfbfd4da4a7711313f97175\transformed\jetified-play-services-auth-20.3.0\AndroidManifest.xml:37:13-48
+152
+153        <receiver
+153-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:32:9-39:20
+154            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+154-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:33:13-78
+155            android:exported="true"
+155-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:34:13-36
+156            android:permission="com.google.android.c2dm.permission.SEND" >
+156-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:35:13-73
+157            <intent-filter>
+157-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-31:29
+158                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+158-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-81
+158-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-78
+159            </intent-filter>
+160        </receiver>
+161        <!--
+162             FirebaseMessagingService performs security checks at runtime,
+163             but set to not exported to explicitly avoid allowing another app to call it.
+164        -->
+165        <service
+165-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:45:9-52:19
+166            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+166-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:46:13-82
+167            android:directBootAware="true"
+167-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:47:13-43
+168            android:exported="false" >
+168-->[com.google.firebase:firebase-messaging:23.0.6] C:\Users\ankit\.gradle\caches\transforms-3\27850182912d230a3c8a1222efb65874\transformed\jetified-firebase-messaging-23.0.6\AndroidManifest.xml:48:13-37
+169            <intent-filter android:priority="-500" >
+169-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:29
+170                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+170-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-78
+170-->[:react-native-firebase_messaging] C:\Users\ankit\Documents\New Test\Motion\MotionApp\node_modules\@react-native-firebase\messaging\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:25-75
+171            </intent-filter>
+172        </service>
+173
+174        <activity
+174-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+175            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+175-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+176            android:exported="false"
+176-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+177            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+177-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\2914a5de0c85d7d2db69b749d8d2cf9c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+178
+179        <service
+179-->[com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:29:9-35:19
+180            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+180-->[com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:30:13-103
+181            android:exported="false" >
+181-->[com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:31:13-37
+182            <meta-data
+182-->[com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:32:13-34:39
+183                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+183-->[com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:33:17-94
+184                android:value="cct" />
+184-->[com.google.android.datatransport:transport-backend-cct:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\5d2f114810c93987fc174798a3c7ad85\transformed\jetified-transport-backend-cct-3.1.6\AndroidManifest.xml:34:17-36
+185        </service>
+186        <service
+186-->[com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:26:9-30:19
+187            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+187-->[com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:27:13-117
+188            android:exported="false"
+188-->[com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:28:13-37
+189            android:permission="android.permission.BIND_JOB_SERVICE" >
+189-->[com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:29:13-69
+190        </service>
+191
+192        <receiver
+192-->[com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:32:9-34:40
+193            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+193-->[com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:33:13-132
+194            android:exported="false" />
+194-->[com.google.android.datatransport:transport-runtime:3.1.6] C:\Users\ankit\.gradle\caches\transforms-3\126d7b843991b20aec39d0d34baabd71\transformed\jetified-transport-runtime-3.1.6\AndroidManifest.xml:34:13-37
+195
+196        <provider
+196-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+197            android:name="com.google.firebase.provider.FirebaseInitProvider"
+197-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+198            android:authorities="com.motionapp.firebaseinitprovider"
+198-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+199            android:directBootAware="true"
+199-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+200            android:exported="false"
+200-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+201            android:initOrder="100" />
+201-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ankit\.gradle\caches\transforms-3\343f5ecf2763e6dc2a0d886842a00a13\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+202
+203        <meta-data
+203-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+204            android:name="com.google.android.gms.version"
+204-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+205            android:value="@integer/google_play_services_version" />
+205-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\ankit\.gradle\caches\transforms-3\35d0da91f93e03675f2e43227b6de8b1\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+206    </application>
+207
+208</manifest>
